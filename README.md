@@ -24,9 +24,6 @@ El archivo `README.md`:
 
 ---
 
-¿Querés que te muestre un ejemplo de `README.md` bien estructurado para un proyecto en Python o de ingeniería de datos?
-
-
 
 
 
