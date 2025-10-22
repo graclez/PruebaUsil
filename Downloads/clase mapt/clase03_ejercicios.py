@@ -167,8 +167,7 @@ if len(subset) >= 2:
             plt.text(j, i, f"{corr.iloc[i, j]:.2f}", ha="center", va="center")
     plt.title("Matriz de correlación (subset)")
     plt.tight_layout()
-    plt.show()
-
+   
 # =============================================================
 # 9) MINI-REPORTE IMPRESO (para leer en voz alta)
 # =============================================================
